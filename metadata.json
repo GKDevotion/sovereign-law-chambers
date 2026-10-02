@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Law Chambers - Advocates & Solicitors",
+  "description": "Static professional profile of Sovereign Law Chambers compliant with Bar Council of India Rule 36, featuring academic qualifications, enrolment particulars, approved practice areas, and judicial forums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
